@@ -1,4 +1,3 @@
-from werkzeug.security import generate_password_hash, check_password_hash
 from repl_from_cli.core.helpers import ask_yes_no
 from getpass import getpass
 from webbrowser import open_new_tab
