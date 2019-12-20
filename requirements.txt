@@ -1,0 +1,4 @@
+Werkzeug==0.14.1
+setuptools==41.4.0
+requests==2.22.0
+PyGithub==1.44.1
