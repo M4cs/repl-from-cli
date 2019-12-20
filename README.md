@@ -13,7 +13,7 @@ Requirements:
 
 - Python 3.5+
 - A GitHub Account
-- A GitHub Personal Access Token ([How Do I Get Mine?](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line))
+- A GitHub Personal Access Token ([How Do I Get Mine?](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)) **Make sure to give it Repo, User, and Delete Permissions**
 - A [repl.it](https://repl.it) Account
 
 # Getting Started
@@ -22,7 +22,7 @@ To start, first make sure you have `git` the command line tool installed. If you
 
 Either Run:
 ```
-pip3 install repl_from_cli
+pip3 install repl-from-cli
 ```
 
 or

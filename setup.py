@@ -10,8 +10,8 @@ with open('requirements.txt', 'r') as reqs:
     for x in reqs.readlines():
         requirements.append(x.replace('\n', '').replace('\r', ''))
 setup(
-    name='repl-run-cli',
-    version='1.0.1',
+    name='repl-from-cli',
+    version='1.0.0',
     author='Max Bridgland',
     author_email='mabridgland@protonmail.com',
     description='Generate GitHub and Repl.it Repos with One Command',
