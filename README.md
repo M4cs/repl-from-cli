@@ -55,6 +55,6 @@ The tool will open up `repl.it` in your default browser. **Make sure you are log
 
 # License
 
-Modified Copyright License. I hereby declare than anybody is allowed to pull, fork, and modify this code locally for personal use or contribution to the main branch. You may not UNDER ANY CIRCUMSTANCES redistribute this code as your own apart from Forking. 
+Modified Copyright License. I hereby declare that anybody is allowed to pull, fork, and modify this code locally for personal use or contribution to the main branch. You may not UNDER ANY CIRCUMSTANCES redistribute this code as your own apart from Forking. 
 
 Copyright Max Bridgland 2019
