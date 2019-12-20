@@ -41,3 +41,10 @@ The tool pulls from `~/.replitcli/config` for configuration values. To change yo
 Run `repl-from-cli` inside any directory you'd like to upload to repl.it. It will make sure you are logged into repl before creating the repository. After it creates the repo on your github it will create a local git repo in the directory and push to the GitHub repo. If you want to hide files you should make a `.gitignore` prior to running this command. Also if it already has a GitHub repo simply use the URL API repl.it provides (ex. `https://repl.it/github/<Username>/<Repo Name>`).
 
 The tool will open up `repl.it` in your default browser. **Make sure you are logged into repl.it on it.**
+
+
+# License
+
+Modified Copyright License. I hereby declare than anybody is allowed to pull, fork, and modify this code locally for personal use or contribution to the main branch. You may not UNDER ANY CIRCUMSTANCES redistribute this code as your own apart from Forking. 
+
+Copyright Max Bridgland 2019
