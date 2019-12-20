@@ -1,6 +1,16 @@
 # repl-from-cli
 A new way to get your source code onto Repl with one command.
 
+<p align="center">
+  <a href="repl.art" target="_blank">
+  <img src="http://repl.art/ghrepl.png" width="200px">
+  <img src="http://repl.art/octocat-replbot1.png" width="200px">
+  <img src="http://repl.art/octocat-replbot2.png" width="200px">
+  </a>
+  <br>
+  <p align="center">Art From repl.art</p>
+</p>
+
 # What is repl-from-cli?
 
 Repl-from-cli allows you to upload your source code to a temporary GitHub repository and then allows you to clone it to repl.it and either delete or save the repo on your GitHub. You basically get to hit 2 birds with 1 stone.
