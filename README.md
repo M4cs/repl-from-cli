@@ -1,6 +1,8 @@
 # repl-from-cli
 A new way to get your source code onto Repl with one command.
 
+![Stars](https://img.shields.io/github/stars/M4cs/repl-from-cli) ![Forks](	https://img.shields.io/github/forks/M4cs/repl-from-cli) [![Downloads](https://pepy.tech/badge/repl-from-cli)](https://pepy.tech/project/repl-from-cli) ![Tweet](	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FM4cs%2Frepl-from-cli)
+
 <p align="center">
   <a href="repl.art" target="_blank">
   <img src="http://repl.art/ghrepl.png" width="200px">
